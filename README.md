@@ -1,6 +1,12 @@
-# wordpress
+# Wordpress
 This is an project related to docker technology that i have learn from the IIEC-RISE 1.0
 This is an wordpress website project with integratio of the mysql, php and apache server
+
+This project will let you create your own wordpress website with the mysql databse.
+Using Docker you can ensure that your website will not be failed at anytime. regardless of the traffic on the server.
+as docker will gives you the power of starting another server in a second.
+
+Use It.
 
 # Prerequisite that are required for the project
 
